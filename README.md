@@ -6,10 +6,10 @@
 INTRODUCTION: This Analysis is to help you understand the housing market trend in Charlotte region in the last 
 20 years so that you can decide what to buy and where to buy the right kind of properties that will gain the most value in the future.
 
-DATA/ OPERATIONS ABSTRACTION DESIGN: The data used is obtained from Mecklenburg County. The original dataset contains many columns which haven't been
+DATA/ OPERATIONS ABSTRACTION DESIGN: The data used is obtained from Mecklenburg County data mart. The original dataset contains many columns which haven't been
 used in this analysis and have been truncated from the dataset. Some new calculated fields have been created to do the calculation and comparison.  
 The dataset contains most things I need to do the market trend analysis. I use the median price instead of average price of houses to avoid any outlier distortion.
 
-FUTURE WORK: I will continue to all more features to tell the story in different perspectives and plan to update the data in the future.
+FUTURE WORK: I will continue to add all more features to tell the story in different perspectives and plan to update the data in the future.
 
 Link to the Tableau Dashboard: https://public.tableau.com/app/profile/sherman.tse/viz/real_estate_trend_charlotte/Story1?publish=yes
