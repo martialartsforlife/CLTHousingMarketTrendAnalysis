@@ -12,7 +12,4 @@ The dataset contains most things I need to do the market trend analysis. I use t
 
 FUTURE WORK: I will continue to all more features to tell the story in different perspectives and plan to update the data in the future.
 
-Link to the Tableau Dashboard:
-
-
-## Link to Tableau Dashboard 
+Link to the Tableau Dashboard: https://public.tableau.com/app/profile/sherman.tse/viz/real_estate_trend_charlotte/Story1?publish=yes
