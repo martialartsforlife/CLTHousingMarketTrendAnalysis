@@ -1,5 +1,5 @@
 # CLT-Housing-Market-Analysis
-5122 Midterm Project
+5122 Midterm & Final Project
 
 ## Charlotte Residential Real Estate Market Analysis from 2003 to 2024
 
